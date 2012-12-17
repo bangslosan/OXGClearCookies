@@ -1,0 +1,6 @@
+Clear Cookies on UIWebView - Titanium
+=====================================
+
+```
+require('com.oxgcp.clearcookies').clearCookies('twitter.com');
+```
