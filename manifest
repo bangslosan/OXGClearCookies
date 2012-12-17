@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: clear cookies On UIWebView
+author: hiphapis
+license: MIT
+copyright: Copyright (c) 2012 by OxygenComputingInc.
+
+
+# these should not be edited
+name: clearcookies
+moduleid: com.oxgcp.clearcookies
+guid: 9afb6532-45f6-4b3d-9185-374f2ab62200
+platform: iphone
+minsdk: 2.1.1.GA
